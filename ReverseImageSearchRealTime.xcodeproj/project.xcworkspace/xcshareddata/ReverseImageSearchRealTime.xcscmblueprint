@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2B27851675DA58FB331990C19984B61404F09A0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "941C8EBC89675D7CBE81399614DE647202D3D560" : 0,
+    "CE6DB5CAD37933655326CE4949F968A4A0799398" : 0,
+    "2B27851675DA58FB331990C19984B61404F09A0D" : 0,
+    "2DF474C4828357D1BBD0D657A2CC1FEFCB7FEAF4" : 0,
+    "5DB7C332A3A89035E93556A2A38BF414005BA671" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7A0A5C5-6363-4089-AAF5-4418170B83E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "941C8EBC89675D7CBE81399614DE647202D3D560" : "..\/..\/Code\/of_v0.9.6_osx_release\/addons\/ofxPCA",
+    "CE6DB5CAD37933655326CE4949F968A4A0799398" : "..\/..\/Code\/of_v0.9.6_osx_release\/addons\/ofxCcv",
+    "2B27851675DA58FB331990C19984B61404F09A0D" : "ml4a-ofx\/",
+    "2DF474C4828357D1BBD0D657A2CC1FEFCB7FEAF4" : "..\/..\/Code\/of_v0.9.6_osx_release\/addons\/ofxKDTree",
+    "5DB7C332A3A89035E93556A2A38BF414005BA671" : "..\/..\/Code\/of_v0.9.6_osx_release\/addons\/ofxJSON"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ReverseImageSearchRealTime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "apps\/ReverseImageSearchRealTime\/ReverseImageSearchRealTime.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ml4a\/ml4a-ofx\/",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B27851675DA58FB331990C19984B61404F09A0D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/genekogan\/ofxKDTree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DF474C4828357D1BBD0D657A2CC1FEFCB7FEAF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jefftimesten\/ofxJSON",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DB7C332A3A89035E93556A2A38BF414005BA671"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/atduskgreg\/ofxPCA",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "941C8EBC89675D7CBE81399614DE647202D3D560"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCcv",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE6DB5CAD37933655326CE4949F968A4A0799398"
+    }
+  ]
+}
